@@ -1,0 +1,16 @@
+<group>
+	<Matrice/>
+	<Pos.x>1000</Pos.x>
+	<Pan>-88</Pan>
+	<Tilt>6</Tilt>
+<group/>
+	<Pos.y>1000</Pos.y>
+	<Pos.z>2130</Pos.z>
+<Dimensions_Fixes/>
+	<Scene.X>5000</Scene.X>
+	<Scene.Y>8500</Scene.Y>
+	<Scene.Z>3800</Scene.Z>
+	<Cote_Miroirs>100</Cote_Miroirs>
+	<Nb.X>3</Nb.X>
+	<Nb.Y>3</Nb.Y>
+</group>
